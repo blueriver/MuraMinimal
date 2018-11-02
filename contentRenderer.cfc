@@ -66,6 +66,7 @@
 	--->
 
 	<cfscript>
+		this.primaryContentTypes='Page,Link,File';
 		this.cookieConsentEnabled=false;
 		this.cookieConsentType='drawer';
 		this.cookieConsentButtonClass="btn btn-primary";
