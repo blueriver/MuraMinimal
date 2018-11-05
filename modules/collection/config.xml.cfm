@@ -1,1 +1,1 @@
-<mura name="Collection" contenttypes=""></mura>
+<mura name="Collection" contenttypes="*"></mura>
